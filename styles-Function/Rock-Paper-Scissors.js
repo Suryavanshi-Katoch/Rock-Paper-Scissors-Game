@@ -80,7 +80,7 @@ function playGame (playerMove) {
     resultOnPage ();
     
     document.querySelector('.movesOnScreen')
-    .innerHTML= `You chose: <img class="Moves" src="images/${playerMove}-emoji.png">  Computer chose: <img class="Moves" src="images/${computerMove}-emoji.png">`;
+    .innerHTML= `You chose: <img class="Moves" src="images/movess/${playerMove}-emoji.png">  Computer chose: <img class="Moves" src="images/movess/${computerMove}-emoji.png">`;
     
 }
 
