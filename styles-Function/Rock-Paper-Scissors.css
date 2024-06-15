@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    background-color: black;
+    color: white;
+}
+
+.Move-options{
+    background-color: transparent;
+    width: 50px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 60px;
+    padding: 30px;
+}
+
+button{
+    border: none;
+    background-color: black;
+}
+
+.resetbutton{
+    background-color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+}
+
+.heading{
+    font-size: 30px;
+}
+
+.resultOnScreen{
+    font-size: 24px;
+}
+
+.Moves{
+    width: 50px;
+    height: 50px;
+}
